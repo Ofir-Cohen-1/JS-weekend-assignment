@@ -1,0 +1,15 @@
+{
+  "name": "weekendproblams",
+  "version": "1.0.0",
+  "description": "- **git clone https://(address)**\r - after clone please **npm install** this will install all what that this project is need automatically\r - **Note:** for run the test you need to run the command **npm run test**",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
